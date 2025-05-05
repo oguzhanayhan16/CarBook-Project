@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39C6B00D-5DF8-4AB7-83D2-0957905D7906}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\oziay\\desktop\\carbook\\carbook\\presentation\\carbook.webapi\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C6B00D-5DF8-4AB7-83D2-0957905D7906}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284FCA07-D439-45DE-9943-B48C864C3012}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\oziay\\desktop\\carbook\\carbook\\frontends\\carbook.webui\\areas\\admin\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{284FCA07-D439-45DE-9943-B48C864C3012}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284FCA07-D439-45DE-9943-B48C864C3012}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\oziay\\desktop\\carbook\\carbook\\frontends\\carbook.webui\\areas\\admin\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284FCA07-D439-45DE-9943-B48C864C3012}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284FCA07-D439-45DE-9943-B48C864C3012}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\oziay\\desktop\\carbook\\carbook\\frontends\\carbook.webui\\areas\\admin\\controllers\\admincontactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284FCA07-D439-45DE-9943-B48C864C3012}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\controllers\\admincontactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5A6FFE-D5DC-4374-9AFE-1A5C0D8A0872}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\oziay\\desktop\\carbook\\carbook\\core\\carbook.application\\features\\mediator\\handlers\\carpricinghandlers\\getcarpricingwithtimeperiodqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5A6FFE-D5DC-4374-9AFE-1A5C0D8A0872}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\mediator\\handlers\\carpricinghandlers\\getcarpricingwithtimeperiodqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284FCA07-D439-45DE-9943-B48C864C3012}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\oziay\\desktop\\carbook\\carbook\\frontends\\carbook.webui\\views\\carpricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{284FCA07-D439-45DE-9943-B48C864C3012}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\views\\carpricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284FCA07-D439-45DE-9943-B48C864C3012}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\oziay\\desktop\\carbook\\carbook\\frontends\\carbook.webui\\controllers\\carpricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284FCA07-D439-45DE-9943-B48C864C3012}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\controllers\\carpricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284FCA07-D439-45DE-9943-B48C864C3012}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\oziay\\desktop\\carbook\\carbook\\frontends\\carbook.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{284FCA07-D439-45DE-9943-B48C864C3012}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284FCA07-D439-45DE-9943-B48C864C3012}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\oziay\\desktop\\carbook\\carbook\\frontends\\carbook.webui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284FCA07-D439-45DE-9943-B48C864C3012}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C6B00D-5DF8-4AB7-83D2-0957905D7906}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\oziay\\desktop\\carbook\\carbook\\presentation\\carbook.webapi\\controllers\\registerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C6B00D-5DF8-4AB7-83D2-0957905D7906}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\controllers\\registerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5A6FFE-D5DC-4374-9AFE-1A5C0D8A0872}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\oziay\\desktop\\carbook\\carbook\\core\\carbook.application\\features\\mediator\\handlers\\cardescriptionhandlers\\getcardescriptionbycaridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5A6FFE-D5DC-4374-9AFE-1A5C0D8A0872}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\mediator\\handlers\\cardescriptionhandlers\\getcardescriptionbycaridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BEDF7-4155-401D-84BA-926155140278}|Infrastructure\\CarBook.Persistence\\CarBook.Persistence.csproj|c:\\users\\oziay\\desktop\\carbook\\carbook\\infrastructure\\carbook.persistence\\repositories\\cardescriptionrepositories\\cardescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BEDF7-4155-401D-84BA-926155140278}|Infrastructure\\CarBook.Persistence\\CarBook.Persistence.csproj|solutionrelative:infrastructure\\carbook.persistence\\repositories\\cardescriptionrepositories\\cardescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C6B00D-5DF8-4AB7-83D2-0957905D7906}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\oziay\\desktop\\carbook\\carbook\\presentation\\carbook.webapi\\controllers\\cardescriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C6B00D-5DF8-4AB7-83D2-0957905D7906}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\controllers\\cardescriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C6B00D-5DF8-4AB7-83D2-0957905D7906}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\oziay\\desktop\\carbook\\carbook\\presentation\\carbook.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C6B00D-5DF8-4AB7-83D2-0957905D7906}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C6B00D-5DF8-4AB7-83D2-0957905D7906}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\oziay\\desktop\\carbook\\carbook\\presentation\\carbook.webapi\\hubs\\carhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C6B00D-5DF8-4AB7-83D2-0957905D7906}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\hubs\\carhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Frontends\\CarBook.WebUI\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Frontends\\CarBook.WebUI\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T15:00:25.472Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\BlogsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:02:44.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T15:04:36.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T15:04:35.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminContactController.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminContactController.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminContactController.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminContactController.cs",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T15:04:34.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetCarPricingWithTimePeriodQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Handlers\\CarPricingHandlers\\GetCarPricingWithTimePeriodQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\Mediator\\Handlers\\CarPricingHandlers\\GetCarPricingWithTimePeriodQueryHandler.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Handlers\\CarPricingHandlers\\GetCarPricingWithTimePeriodQueryHandler.cs",
+              "RelativeToolTip": "Core\\CarBook.Application\\Features\\Mediator\\Handlers\\CarPricingHandlers\\GetCarPricingWithTimePeriodQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T15:03:35.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Frontends\\CarBook.WebUI\\Views\\CarPricing\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Views\\CarPricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Frontends\\CarBook.WebUI\\Views\\CarPricing\\Index.cshtml",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Views\\CarPricing\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T15:02:59.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarPricingController.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Frontends\\CarBook.WebUI\\Controllers\\CarPricingController.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Controllers\\CarPricingController.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Frontends\\CarBook.WebUI\\Controllers\\CarPricingController.cs",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Controllers\\CarPricingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T15:02:53.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Frontends\\CarBook.WebUI\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Frontends\\CarBook.WebUI\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T15:00:23.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistersController.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\RegistersController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\RegistersController.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\RegistersController.cs",
+              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\RegistersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:44:08.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarDescriptionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Infrastructure\\CarBook.Persistence\\Repositories\\CarDescriptionRepositories\\CarDescriptionRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CarBook.Persistence\\Repositories\\CarDescriptionRepositories\\CarDescriptionRepository.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Infrastructure\\CarBook.Persistence\\Repositories\\CarDescriptionRepositories\\CarDescriptionRepository.cs",
+              "RelativeToolTip": "Infrastructure\\CarBook.Persistence\\Repositories\\CarDescriptionRepositories\\CarDescriptionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:43:35.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetCarDescriptionByCarIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Handlers\\CarDescriptionHandlers\\GetCarDescriptionByCarIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\Mediator\\Handlers\\CarDescriptionHandlers\\GetCarDescriptionByCarIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Handlers\\CarDescriptionHandlers\\GetCarDescriptionByCarIdQueryHandler.cs",
+              "RelativeToolTip": "Core\\CarBook.Application\\Features\\Mediator\\Handlers\\CarDescriptionHandlers\\GetCarDescriptionByCarIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:42:21.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarDescriptionsController.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\CarDescriptionsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\CarDescriptionsController.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\CarDescriptionsController.cs",
+              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\CarDescriptionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:42:04.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Presentation\\CarBook.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Presentation\\CarBook.WebApi\\Program.cs",
+              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Program.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAADgv5kAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:02:45.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarHub.cs",
+              "DocumentMoniker": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Presentation\\CarBook.WebApi\\Hubs\\CarHub.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Hubs\\CarHub.cs",
+              "ToolTip": "C:\\Users\\oziay\\Desktop\\CarBook\\CarBook\\Presentation\\CarBook.WebApi\\Hubs\\CarHub.cs",
+              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Hubs\\CarHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:01:05.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
