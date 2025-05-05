@@ -1,14 +1,17 @@
-# Rent a Car .NET Projesi
+Rent a Car .NET Project
+This project is a car rental application developed using modern software architectures and technologies. It incorporates up-to-date software practices such as JWT, Mediator, CQRS, SignalR, and Onion Architecture.
 
-Bu proje, modern yazılım mimarileri ve teknolojileri kullanılarak geliştirilmiş bir araç kiralama (Rent a Car) uygulamasıdır. Projede **JWT**, **Mediator**, **CQRS**, **SignalR** ve **Onion Architecture** gibi güncel yazılım pratikleri uygulanmıştır.
+🔧 Technologies Used
+.NET Core / ASP.NET Core
 
-## 🔧 Kullanılan Teknolojiler
+JWT (JSON Web Token) for authentication
 
-- **.NET Core / ASP.NET Core**
-- **JWT (JSON Web Token)** ile kimlik doğrulama
-- **MediatR** (Mediator Pattern) ile loosely-coupled yapı
-- **CQRS (Command Query Responsibility Segregation)** ile komut ve sorgu ayrımı
-- **SignalR** ile gerçek zamanlı iletişim (örneğin canlı rezervasyon takibi)
-- **Onion Architecture** ile katmanlı, bağımsız ve test edilebilir yapı
+MediatR (Mediator Pattern) for a loosely-coupled structure
 
-## 📁 Proje Katmanları (Onion Architecture)
+CQRS (Command Query Responsibility Segregation) to separate commands and queries
+
+SignalR for real-time communication (e.g., live reservation tracking)
+
+Onion Architecture for a layered, decoupled, and testable structure
+
+📁 Project Layers (Onion Architecture)
